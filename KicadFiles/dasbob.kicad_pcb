@@ -10594,7 +10594,7 @@
   (gr_curve (pts (xy 150.125282 88.648534) (xy 150.125282 88.648534) (xy 150.125282 91.996393) (xy 150.125282 91.996393)) (layer "Edge.Cuts") (width 0.09) (tstamp fb0a4132-d35d-4b1f-828a-3f212415b9a8))
   (gr_curve (pts (xy 149.767218 88.290471) (xy 149.964971 88.290471) (xy 150.125282 88.450781) (xy 150.125282 88.648534)) (layer "Edge.Cuts") (width 0.09) (tstamp fc87abb8-d088-48a8-9c90-370c4316f064))
   (gr_curve (pts (xy 193.409365 34.735277) (xy 193.409365 34.735277) (xy 157.884616 34.735277) (xy 157.884616 34.735277)) (layer "Edge.Cuts") (width 0.09) (tstamp fdc63b35-302b-4413-b09d-d743ee5625d8))
-  (gr_text "DASBOB REV 1" (at 154.432565 65.823139 -90) (layer "B.SilkS") (tstamp e5270018-b46a-44d4-b964-af6d369e2573)
+  (gr_text "DASBOB REV 1.1" (at 154.432565 65.823139 -90) (layer "B.SilkS") (tstamp e5270018-b46a-44d4-b964-af6d369e2573)
     (effects (font (size 1 1) (thickness 0.25)) (justify mirror))
   )
   (gr_text "BUZZER" (at 134.52 94.59 -30) (layer "F.SilkS") (tstamp 012d34d3-1ef2-46ce-95a4-96b5dda1e8db)
