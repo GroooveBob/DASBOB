@@ -3,4 +3,4 @@
 
 Rev 1 first prototype
 
-Rev 1.l fixed the spacing mistake :D
+Rev 1.1 fixed the spacing mistake :D
