@@ -14,7 +14,7 @@ OLED is now working
 
 
 
-also two jumpers on the board to make the buzzer work
+also put two jumpers on the board to make the buzzer work
 
 
 Rev 1 first prototype
