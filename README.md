@@ -10,9 +10,14 @@ Firmware:
 https://github.com/GroooveBob/DASBOB-qmk
 
 
+OLED is now working
+Put two jumpers on the board to make the buzzer work
+
 
 Rev 1 first prototype
 
 Rev 1.1 fixed the spacing mistake :D
 
-Not tested: buzzer, oled, zmk
+
+
+Not tested: buzzer, zmk
