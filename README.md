@@ -11,7 +11,10 @@ https://github.com/GroooveBob/DASBOB-qmk
 
 
 OLED is now working
-Put two jumpers on the board to make the buzzer work
+
+
+
+also two jumpers on the board to make the buzzer work
 
 
 Rev 1 first prototype
