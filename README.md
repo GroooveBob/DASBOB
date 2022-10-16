@@ -26,4 +26,5 @@ Rev 1.1 fixed the spacing mistake :D
 Not tested: buzzer, zmk
 
 special thanks to pcbway for supporting the development
+
 ![alt text](https://github.com/GroooveBob/DASBOB/blob/main/pic/pcbway-logo-trasppng.png)
