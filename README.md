@@ -23,7 +23,7 @@ Rev 1.1 fixed the spacing mistake :D
 
 
 
-Not tested: buzzer, zmk
+Not tested: zmk
 
 special thanks to pcbway for supporting the development
 
