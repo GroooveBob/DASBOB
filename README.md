@@ -3,7 +3,7 @@
 ![alt text](https://github.com/GroooveBob/DASBOB/blob/main/pic/dasbob.png)
 
 
-36 Key Diodeless Split Choc Keyboard
+36 Key Diodeless Split Choc Keyboard wit a Buzzer 
 
 Firmware:
 
