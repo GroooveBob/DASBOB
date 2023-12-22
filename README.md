@@ -11,6 +11,7 @@ https://github.com/GroooveBob/DASBOB-qmk
 
 https://codeberg.org/jcowgar/dasbob-36-kmk
 
+https://docs.beekeeb.com/dasbob-keyboard (and layout teste pdf)
 
 Not tested: zmk
 
