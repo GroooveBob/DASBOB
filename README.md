@@ -9,6 +9,8 @@ Firmware:
 
 https://github.com/GroooveBob/DASBOB-qmk
 
+https://codeberg.org/jcowgar/dasbob-36-kmk
+
 
 Not tested: zmk
 
